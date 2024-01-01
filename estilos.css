@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+}
+
+.contenedor{
+
+    background-color: hotpink;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+
+}
+p{
+    font-size: x-large;
+    padding: 15%; 
+
+}
+
+button{
+    font-size: x-large;
+    padding: 0.7em
+}
+
+
+img{
+    width: 100px;
+    height: 100px;
+    background-position: center;
+    background-position: 0vh;
+
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+
+}
+
+#noBtn{
+    position: absolute;
+}
